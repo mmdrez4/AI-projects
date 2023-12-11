@@ -1,5 +1,3 @@
-# ML-projects-from-scratch
-
 # Readme for Machine Learning Projects Repository
 
 Welcome to my Machine Learning Projects repository! This collection of notebooks demonstrates various applications of machine learning techniques, ranging from generative models to classification tasks. Each project utilizes different datasets and approaches, providing a comprehensive insight into the capabilities of machine learning.
