@@ -13,7 +13,7 @@ This project focuses on developing an intelligent agent that writes captions for
 ### 3. [Classification with Transfer Learning](https://github.com/mmdrez4/ML-From-Scratch/blob/main/Classification_with_Transfer_Learning.ipynb)
 In this task, the Inception V3 model is trained using PyTorch and transfer learning techniques to classify images from the CIFAR10 dataset. This approach demonstrates the effectiveness of applying pre-trained models to specific classification tasks.
 
-### 4. [Classification with Convolutional Neural Networks](https://github.com/mmdrez4/ML-From-Scratch/blob/main/Classification_with_Convolutional Neural_Networks.ipynb)
+### 4. [Classification with Convolutional Neural Networks](https://github.com/mmdrez4/ML-From-Scratch/blob/main/Classification_with_Convolutional_Neural_Networks.ipynb)
 This project involves training a Convolutional Neural Network (CNN) with PyTorch to classify images from the CIFAR10 dataset. The focus is on building and training a CNN from scratch to understand the intricacies of convolutional layers in image classification.
 
 ### 5. [Classification with Fully Connected Model](https://github.com/mmdrez4/ML-From-Scratch/blob/main/Classification_with_Fully_Connected_Model.ipynb)
